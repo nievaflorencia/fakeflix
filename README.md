@@ -1,8 +1,16 @@
+<<<<<<< HEAD
+`Hola soy un cambio de Flor`
+`Flor está estresada`
+
+
+# Getting Started with Create React App and Redux
+=======
 
 
 # PROBANDO UN CAMBIO NUEVO
 
 
+>>>>>>> 7dcd495331a0bcb80a88fb0755fb1d04f08b341c
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 

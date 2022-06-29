@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 `Hola soy un cambio de Flor`
 `Flor está estresada`
+`Caro explota a Flor`
 
 
 # Getting Started with Create React App and Redux

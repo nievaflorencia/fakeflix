@@ -13,6 +13,35 @@
 
 >>>>>>> 7dcd495331a0bcb80a88fb0755fb1d04f08b341c
 
+# Inicialización del proyecto
+
+`npx create-react-app nombreapp --template redux`
+`yarn install` (en caso de no tenerlo)
+
+# Proceso de limpieza
+ELIMINAR:
+- App.test.js
+- setuoTest.js
+- Logo.svg
+- App.css
+
+# Instalar 
+- yarn add @material-ui/core
+- yarn add axios
+- yarn add firebase
+- yarn add react-router-dom
+- yarn add react-uuid
+- yarn add styled-components 
+
+# Importar las librerías 
+- @material-ui/core
+- axios
+- firebe
+- react-router-dom
+- react-uuid
+- styled-components
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
